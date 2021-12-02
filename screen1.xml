@@ -6,9 +6,9 @@
   <link></link>
   <description>Screen 1 Feed</description>
   <item>
-    <title>Screen 1 News Feed</title>
+    <title>Screen 1 News Feed Item Title</title>
     <link></link>
-    <description>description</description>
+    <description>Screen 1 News Feed Item description</description>
   </item>
   
 </channel>
