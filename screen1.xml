@@ -1,16 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 
 <channel>
-  <title>Screen 1 Feed</title>
-  <link></link>
-  <description>Screen 1 Feed</description>
-  <item>
-    <title>Another title 3</title>
-    <link></link>
-    <description>Description here 3</description>
-  </item>
-  
+ <title>SSG Web Feed</title>
+ <link></link>
+ <description>DPS RSS Feed Screen 1</description>
+ <item>
+   <title>SSG Testing Item SCreen 1</title>
+   <link></link>
+   <description>SSG Test Item Screen 1</description>
+ </item>
 </channel>
 
 </rss>
