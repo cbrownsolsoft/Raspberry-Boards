@@ -4,11 +4,11 @@
 <channel>
   <title>Screen 1 Feed</title>
   <link></link>
-  <description>Screen 1 Feed file</description>
+  <description>Screen 1 Feed</description>
   <item>
     <title>Screen 1 News Feed</title>
     <link></link>
-    <description></description>
+    <description>description</description>
   </item>
   
 </channel>
