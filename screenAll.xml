@@ -6,17 +6,13 @@
   <link></link>
   <description>All Screens Feed file</description>
   <item>
-    <title>All Screens News Feed</title>
+    <title>
+      <!-- Enter what text to display below here --!>
+      Helllooo is anyone there - Happy Christmas!
+    </title>
     <link></link>
     <description></description>
-  </item>
-  
-  <item>
-    <title>All Screens News Feed Item 2</title>
-    <link></link>
-    <description></description>
-  </item>
-  
+  </item>  
 </channel>
 
 </rss>
